@@ -12,9 +12,9 @@ namespace Variant4
             StrelkovoeOrujie orujie1 = new StrelkovoeOrujie();
             orujie1.PrintInfo();
 
-            orujie1.Nazvanie = "АК-74";
+            orujie1.Nazvanie = "АК-15";
             orujie1.Kalibr = 5.45f;
-            orujie1.Dalnost = 500.0;
+            orujie1.Dalnost = 450.0;
 
             Console.WriteLine(">>> Объект 1 после установки значений через свойства:");
             orujie1.PrintInfo();
