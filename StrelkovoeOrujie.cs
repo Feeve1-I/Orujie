@@ -1,4 +1,4 @@
-namespace Console_App
+namespace Variant3
 {
     class StrelkovoeOrujie
     {
